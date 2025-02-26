@@ -27,7 +27,7 @@
     <Compile Include="Chrystie\__init__.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Dylan\module1.py">
+    <Compile Include="Dylan\streetlights.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Dylan\__init__.py">
